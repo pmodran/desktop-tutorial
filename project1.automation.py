@@ -25,7 +25,7 @@ def process_folder(path):
     files = os.listdir(path)
  
     for file in files:
-        process_workbook(path + '/' + file)
+        process_workbook(path + '/' + file) # we are giving the absolute filename here 
 
 
 
