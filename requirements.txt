@@ -1,0 +1,176 @@
+absl-py==2.1.0
+aiohappyeyeballs==2.4.4
+aiohttp==3.11.11
+aiosignal==1.3.2
+annotated-types==0.7.0
+anyio==4.8.0
+appnope==0.1.4
+asttokens==2.4.1
+astunparse==1.6.3
+attrs==24.3.0
+bokeh==3.6.2
+Bottleneck @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e7wwl52wn1/croot/bottleneck_1709075893359/work
+Box2D==2.3.10
+certifi==2024.8.30
+charset-normalizer==3.4.0
+cloudpickle==3.1.1
+comm==0.2.2
+contourpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/contourpy_1701814001737/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+dataclasses-json==0.6.7
+debugpy==1.8.8
+decorator==5.1.1
+distro==1.9.0
+et_xmlfile==2.0.0
+executing==2.1.0
+Farama-Notifications==0.0.4
+fastjsonschema==2.21.1
+filelock==3.16.1
+flatbuffers==24.3.25
+fonttools @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_60c8ux4mkl/croot/fonttools_1713551354374/work
+frozenlist==1.5.0
+fsspec==2024.12.0
+gast==0.6.0
+google-pasta==0.2.0
+graphviz==0.20.3
+grpcio==1.68.1
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==1.0.0
+h11==0.14.0
+h5py==3.12.1
+httpcore==1.0.7
+httpx==0.28.1
+httpx-sse==0.4.0
+huggingface-hub==0.27.1
+idna==3.10
+imageio==2.37.0
+ipykernel==6.29.5
+ipympl==0.9.4
+ipython==8.29.0
+ipython-genutils==0.2.0
+ipywidgets==8.1.5
+jedi==0.19.1
+Jinja2==3.1.5
+jiter==0.8.2
+joblib==1.4.2
+jsonpatch==1.33
+jsonpointer==3.0.0
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+jupyterlab_widgets==3.0.13
+keras==3.7.0
+kiwisolver @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/kiwisolver_1699239145780/work
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-core==0.3.29
+langchain-text-splitters==0.3.5
+langsmith==0.2.10
+libclang==18.1.1
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+marshmallow==3.25.1
+matplotlib @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a8crvoz7ca/croot/matplotlib-suite_1713336381679/work
+matplotlib-inline==0.1.7
+mdurl==0.1.2
+ml-dtypes==0.4.1
+MouseInfo==0.1.3
+mpmath==1.3.0
+multidict==6.1.0
+mypy-extensions==1.0.0
+namex==0.0.8
+narwhals==1.24.1
+nbformat==5.10.4
+nest-asyncio==1.6.0
+networkx==3.4.2
+numexpr @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numexpr_1699237935415/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=37afb6b734a197702d848df93bd67c10b52f6467d56e518950d84b6b1c949d27
+openai==1.59.7
+openpyxl==3.1.5
+opt_einsum==3.4.0
+optree==0.13.1
+orjson==3.10.14
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a6lqg7at4g/croot/packaging_1710807410750/work
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_988rx6x546/croot/pandas_1709590494976/work/dist/pandas-2.2.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=32bac561454fa7751bb78a7886ff57cc7dab7dbaf43aea898c4f3a260743b231
+parso==0.8.4
+pexpect==4.9.0
+pillow @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bdozlpra65/croot/pillow_1714398852206/work
+platformdirs==4.3.6
+plotly==6.0.0
+prompt_toolkit==3.0.48
+propcache==0.2.1
+protobuf==5.29.1
+psutil==6.1.0
+ptyprocess==0.7.0
+pudb==2024.1.3
+pure_eval==0.2.3
+pyarrow==18.0.0
+PyAutoGUI==0.9.54
+pydantic==2.10.5
+pydantic-settings==2.7.1
+pydantic_core==2.27.2
+pydot==3.0.4
+pygame==2.6.1
+PyGetWindow==0.0.9
+Pygments==2.18.0
+PyMsgBox==1.0.9
+pyobjc-core==10.3.1
+pyobjc-framework-Cocoa==10.3.1
+pyobjc-framework-Quartz==10.3.1
+pyparsing @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pyparsing_1699239441347/work
+pyperclip==1.8.2
+PyRect==0.2.0
+PyScreeze==0.1.30
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+python-dotenv==1.0.1
+pytweening==1.2.0
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+PyVirtualDisplay==3.0
+PyYAML==6.0.2
+pyzmq==26.2.0
+referencing==0.36.2
+requests==2.32.3
+requests-toolbelt==1.0.0
+rich==13.9.4
+rpds-py==0.22.3
+rubicon-objc==0.4.9
+scikit-learn==1.5.2
+scipy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9t0odioph/croot/scipy_1717521487325/work/dist/scipy-1.13.1-cp312-cp312-macosx_11_0_arm64.whl#sha256=79bc68b8b51505a63d293435b261c75d43ce266b063378b789d9805b3a33fcc0
+setuptools==69.5.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.1
+SQLAlchemy==2.0.37
+stack-data==0.6.3
+sympy==1.13.1
+tabulate==0.9.0
+tenacity==9.0.0
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+tensorflow==2.18.0
+termcolor==2.5.0
+threadpoolctl==3.5.0
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+tornado @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tornado_1699243541634/work
+tqdm==4.67.1
+traitlets==5.14.3
+typing-inspect==0.9.0
+typing_extensions==4.12.2
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+unicodedata2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a3epjto7gs/croot/unicodedata2_1713212955584/work
+urllib3==2.2.3
+urwid==2.6.16
+urwid_readline==0.15.1
+wcwidth==0.2.13
+Werkzeug==3.1.3
+wheel==0.43.0
+widgetsnbextension==4.0.13
+wrapt==1.17.0
+xgboost==2.1.3
+xvfbwrapper==0.2.9
+xyzservices==2025.1.0
+yarl==1.18.3
